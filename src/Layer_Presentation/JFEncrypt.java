@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Layer_Presentation;
 
 import java.security.spec.KeySpec;
@@ -16,7 +12,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 /**
  *
- * @author KGR
+ * @author Kuantum
  */
 public class JFEncrypt extends javax.swing.JFrame {
 
